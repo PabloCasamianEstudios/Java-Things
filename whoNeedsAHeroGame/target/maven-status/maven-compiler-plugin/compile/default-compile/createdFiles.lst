@@ -1,0 +1,8 @@
+Objects\Player.class
+Objects\NPC.class
+com\mycompany\whoneedsaherogame\WhoNeedsAHeroGame.class
+Objects\Weapon.class
+Objects\Logic.class
+Objects\CharacterGame.class
+Objects\Enemy.class
+Objects\Item.class
