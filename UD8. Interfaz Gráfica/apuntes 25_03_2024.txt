@@ -1,0 +1,15 @@
+
+**GOD DE INTERNET**
+
+https://ocw.ehu.eus/pluginfile.php/42861/mod_resource/content/1/4-1_Java_Swing-AWT.pdf
+
+https://github.com/CrissUD/ProyectoFrontendJava
+
+**APUNTES "TEMA 13. INTERAZ GRÁFICA"**
+
+2 opciones de interfaz gráfica:
+(A) opción pro, desde 0 
+(B) asistente
+---------------------------------------------
+import javax.swing.*;
+
